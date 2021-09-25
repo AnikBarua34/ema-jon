@@ -1,0 +1,17 @@
+.navbar-head{
+    background-color: rgba(0, 0, 0, 0.863);
+    height: 50px;
+}
+
+.navbar-head a{
+    text-decoration: none;
+    color: wheat;
+    margin-left: 100px;
+    padding: 50px;
+    margin: 150px;
+}
+.image{
+    width: 200px;
+   margin-left: 550px;
+   padding: 10px;
+}
